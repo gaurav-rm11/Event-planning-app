@@ -109,11 +109,11 @@ if st.button("Generate plan and Send Via Mail"):
     smtp_server = "smtp.gmail.com"  
 
     # Set up the email lists
-    email_from = "uniquestar1015@gmail.com"
+    email_from = "legionofcode11@gmail.com"
     email_list = [email]
 
     
-    pswd = "krdl gwsj regh qatb" 
+    pswd = "onsk hxnu qnhf jzdr" 
 
 
     # name the email subject
